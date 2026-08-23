@@ -37,7 +37,7 @@ dist/
 
 # Large/generated data
 data/raw/
-data/processed/
+# data/processed/
 
 # Model files
 models/*.pkl
